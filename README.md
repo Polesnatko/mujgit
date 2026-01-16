@@ -60,3 +60,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 Přidaný text 1
 Přidaný text 2
 Editace souboru na větvi 12.x
+Editace souboru na větvi feature
+
